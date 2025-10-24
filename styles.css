@@ -1,8 +1,9 @@
-div {
-    color: white;
-    background-color: rgb(75, 75, 75);
+.boxes,
+.boxes * {
+    outline: 2px solid black;
+    padding: 10px;
 }
 
-p {
-    color: rgb(188, 187, 201);
+.boxes img {
+    outline: 2px solid red;
 }
